@@ -1,0 +1,18 @@
+{
+  "name": "coming soon",
+  "description": "coming soon",
+  "homepage": "http://pur4u.github.io/comingsoon",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ovidiu L.",
+      "email": "contact@pur4u.ro"
+    }
+  ],
+  "bin": [
+    "bin/heroku-hhvm-apache2",
+    "bin/heroku-hhvm-nginx",
+    "bin/heroku-php-apache2",
+    "bin/heroku-php-nginx"
+  ]
+}
